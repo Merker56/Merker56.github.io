@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Mood Detection via Song Lyrics](https://github.com/Merker56/Sentiment-Analysis-of-Songs-Lyrics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
