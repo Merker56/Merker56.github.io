@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Research Projects
 
 [Mood Detection via Song Lyrics](https://github.com/Merker56/Sentiment-Analysis-of-Songs-Lyrics)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Cancer Detection Using Edge Devices](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Effects of Marriage and Children on Career Progression](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
