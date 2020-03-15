@@ -5,27 +5,28 @@
 ### Research Projects
 
 [Mood Detection via Song Lyrics](https://github.com/Merker56/Sentiment-Analysis-of-Songs-Lyrics)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Russels-valence-arousal-mood-plane.png?raw=true"/>
 
 ---
 [Cancer Detection Using Edge Devices](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Effects of Marriage and Children on Career Progression](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Effects of Marriage and Children on Career Progression](/pdf/Effects of Marriage and Children on Career Progression.pdf)
 
 ---
 
-### Category Name 2
+### Certifications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Multidomain Master of Data Management: Administrator - Informatica Cloud](https://www.informatica.com/services-and-training/certification/master-data-management-certification.html)
+- [Claribridge Certified Business Analyst](https://www.clarabridge.com/wp-content/uploads/2017/07/partner-training-datasheet_2511.pdf)
+- [Salesforce Certified Einstein Analytics and Discovery Consultant](/pdf/Einstein_Analytics_and_Discovery_Consultant.pdf)
 
 ---
+
+### Education
+
+- Master's Degree - Information and Data Science - University of California - Berkeley - Projected Dec 2020
+- Bachelor's Degree - Management Information Systems - Pennsylvania State University - May 2010 
 
 
 
